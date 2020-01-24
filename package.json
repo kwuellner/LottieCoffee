@@ -1,0 +1,8 @@
+{
+  "name": "LottieCoffee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kwuellner/LottieCoffee.git",
+  "author": "Kyle Wuellner <rockstar81@comcast.net>",
+  "license": "MIT"
+}
